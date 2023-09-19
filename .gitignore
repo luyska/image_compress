@@ -1,0 +1,4 @@
+env/
+*/__pycache__/
+test-compressed.jpg
+test-resized.jpg
